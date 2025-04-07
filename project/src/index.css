@@ -94,7 +94,7 @@
   bottom: 0;
   background: inherit;
   background-size: 200px 200px;
-  animation: twinkle 2s infinite;
+  animation: twinkle 1s infinite;
   transform: rotate(45deg);
 }
 
